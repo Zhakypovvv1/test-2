@@ -1,3 +1,9 @@
 body{
     background-color: cadetblue;
 }
+
+h2{
+    color: blueviolet;
+    font-family: sans-serif;
+    font-weight: bold;
+}
